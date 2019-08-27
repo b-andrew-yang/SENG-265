@@ -1,0 +1,62 @@
+SENG 265 -- FALL 2017
+ASSIGNMENT #1 EVALUATION
+========================
+
+  Student name:   Yang,Andrew
+  Student number: V00878595
+  Student login:  andrewyang
+
+-----
+(1) word_count.c provided; code compiles into an executable
+
+word_count.c NOT found.
+
+-----
+(2) Part A - Word length counts 
+
+(a) Tests 01-05 
+
+=PARTA01= =PARTA02= =PARTA03= =PARTA04= =PARTA05=
+
+(b) Tests 06-10 
+
+=PARTA06= =PARTA07= =PARTA08= =PARTA09= =PARTA10=
+
+-----
+(3) Part B - Sort by word frequency 
+
+(a) Tests 01-05 
+
+=PARTB01= =PARTB02= =PARTB03= =PARTB04= =PARTB05=
+
+(b) Tests 06-10 
+
+=PARTB06= =PARTB07= =PARTB08= =PARTB09= =PARTB10=
+
+-----
+(4) Part C - Print out words in bucket 
+
+(a) Tests 01-05 
+
+=PARTC01= =PARTC02= =PARTC03= =PARTC04= =PARTC05=
+
+(b) Tests 06-10 
+
+=PARTC06= =PARTC07= =PARTC08= =PARTC09= =PARTC10=
+
+-----
+(5) Additional test notes 
+
+
+-----
+(6) Provided testfile and description
+
+input_file.txt NOT found.
+count_readme.md NOT found.
+
+-----
+(7) Code inspection
+
+
+GRADE:
+0     
